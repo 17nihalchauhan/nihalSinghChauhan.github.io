@@ -7,7 +7,7 @@ function toggleMenu() {
 
 
 const jobTitleElement = document.getElementById('jobTitle');
-const jobTitles = ['Ab Initio Developer'];
+const jobTitles = ['Data Engineer'];
 let index = 0;
 
 function eraseAndWrite() {
